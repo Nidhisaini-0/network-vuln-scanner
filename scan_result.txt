@@ -1,0 +1,7 @@
+Network Vulnerability Scan Report
+Target: 127.0.0.1
+Time: 2026-09-18 11:44:30.041302
+
+Open Ports:
+Port 22
+Port 631
